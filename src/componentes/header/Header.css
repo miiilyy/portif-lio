@@ -1,0 +1,23 @@
+header{
+    background-color:hotpink;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 10vw;
+    align-items: center;
+}
+header nav ul li a{
+    text-decoration: none;
+    padding:15px;
+    border: 1px solid hotpink;
+    color:white;
+    font-family: Arial;
+    font-weight:bold;
+    background-color:hotpink;
+    border-radius:10px;
+
+}
+header nav ul{
+    display: flex;
+    list-style: none;
+    gap:15px ;
+}
