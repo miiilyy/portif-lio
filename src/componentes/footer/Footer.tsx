@@ -1,15 +1,10 @@
 import './Footer.css'
-export default function Footer(){
+import Logo from '/Portifolio_academia.png'
+function Footer(){
     return(
         <footer>
-            <div className='rodape'> 
-             < h1> Emili Portifólio</h1>
-             <a>Home</a>
-             <a>Entrem em contato</a>
-             <a>Informações</a>
-             </div>
-
+            <img src={Logo} alt="" />
         </footer>
-
     )
 }
+export default Footer
