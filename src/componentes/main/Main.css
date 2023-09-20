@@ -23,3 +23,8 @@
 .pesquisa{
     padding: 50px;
 }
+.imagem{
+    display: flex;
+    width: 10px;
+    height:50px ;
+}

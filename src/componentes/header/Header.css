@@ -10,7 +10,7 @@ header nav ul li a{
     text-decoration: none;
     padding: 15px;
     border: 1px solid hotpink;
-    color: white;
+    color:black;
 }
 header nav ul{
     display: flex;
@@ -18,3 +18,21 @@ header nav ul{
     gap: 15px;
     align-items: center;
 }
+.imagem-container {
+    width: 95px;
+}
+
+.imagem-container img {
+    width: 100%; 
+    height: auto; 
+
+}
+.apresentacao_header{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+
+
+

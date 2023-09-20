@@ -1,18 +1,22 @@
 import './Header.css'
-import Logo from '../../assets/enxoval-para-gato-Copia.jpg'
+import Logo from '/IMG_20230506_225218.jpg'
 function Header(){
     return(
         <header>
-            <div>
-            <img src = {Logo} alt= "#" ></img>
-                Emili Silva Protifólio 
+            <div className='apresentacao_header'>
+                <div className="imagem-container">
+                    <img src = {Logo} alt= "#" ></img>
+                </div>
+                <div>
+                    Emili Silva Protifólio 
+                </div>
             </div>
             <nav>
                 <ul>
-                    <li><a href="Home"></a>Pagina inicial</li>
-                    <li><a href="Sobre"></a>Sobre</li>
-                    <li><a href="Noticia"></a>Noticia</li>
-                    <li><a href="Contato"></a>Contato</li>
+                    <li><a href="Home">Pagina inicial</a></li>
+                    <li><a href="Sobre">Sobre</a></li>
+                    <li><a href="Noticia">Noticia</a></li>
+                    <li><a href="Contato">Contato</a></li>
                 </ul>
             </nav>
         </header>

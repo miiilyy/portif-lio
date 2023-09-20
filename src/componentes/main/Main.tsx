@@ -56,7 +56,7 @@ export default function Main(){
         },
         {
             id:8,
-            titulo:"Reciclacem",
+            titulo:"Reciclagem",
             sinopse:"Página inicial do aplicativo de reciclagem.",
             imagem:"/portifolio_reciclagem.png"
         },
