@@ -23,8 +23,27 @@
 .pesquisa{
     padding: 50px;
 }
-.imagem{
+
+@media screen and (max-width: 1115px) {
+    .content-main{
+        grid-template-columns: repeat(2,1fr);
+    }
+    
+}
+
+@media screen and (max-width: 600px) {
+    .content-main{
+        grid-template-columns: repeat(1,1fr);
+    }
+    
+}
+.foto_portifolio>img{
+    width: 300px;
+    height: 380px;
+    display: flex;  
+}
+.foto_portifolio{
+    min-height: 350px;
     display: flex;
-    width: 10px;
-    height:50px ;
+    align-items: center;
 }

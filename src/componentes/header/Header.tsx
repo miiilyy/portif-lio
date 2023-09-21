@@ -1,12 +1,8 @@
 import './Header.css'
-import Logo from '/IMG_20230506_225218.jpg'
 function Header(){
     return(
         <header>
             <div className='apresentacao_header'>
-                <div className="imagem-container">
-                    <img src = {Logo} alt= "#" ></img>
-                </div>
                 <div>
                     Emili Silva Protifólio 
                 </div>

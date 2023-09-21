@@ -16,19 +16,19 @@ export default function Main(){
             id:1,
             titulo:"Academia",
             sinopse:"Meu meio de lazer, onde me sinto bem",
-            imagem:"/Portifolio_academia.png"
+            imagem:"/portifolio_academia.png"
         },
         {
             id:2,
             titulo:"Trabalho de Bairro Inteligente",
             sinopse:"Nesse trabalho houve a comparação do bairro inteligente e do habitual",
-            imagem:"/Portifolio_Bairro.png"
+            imagem:"/portifolio_Bairro.png"
         },
         {
             id:3,
             titulo:"O novo conto da Rapunzel",
             sinopse:"Escrevi um conto da Rapunzel com um novo conceito.",
-            imagem:"/Portifolio_conto.png"
+            imagem:"/portifolio_conto.png"
         },
         {
             id:4,
@@ -46,7 +46,7 @@ export default function Main(){
             id:6,
             titulo:"Realismo",
             sinopse:"Trabalho de português sobre realismo.",
-            imagem:"/Portifolio_Realismo.png"
+            imagem:"/portifolio_Realismo.png"
         },
         {
             id:7,
@@ -85,7 +85,7 @@ export default function Main(){
         <>
             <div className="pesquisa">
                 
-                <p>Buscar Portifolio</p>
+                <p>Buscar Portfólio</p>
                 <input className='barrapesquisa' type="text" onChange={mudaTexto} />
                 <div>
                     <p className='texto_digitado'>Pesquisa: {texto}</p>

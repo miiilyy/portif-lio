@@ -32,6 +32,12 @@ header nav ul{
     align-items: center;
     gap: 15px;
 }
+.apresentacao_header{
+    text-decoration: none;
+    padding: 15px;
+    color:black;
+   font-size: larger;
+}
 
 
 
