@@ -1,5 +1,5 @@
 header{
-    background-color: pink;
+    background-color:rgb(245, 108, 176);
     display: flex;
     justify-content: space-between;
     padding: 20px 10vw;
@@ -9,7 +9,7 @@ header{
 header nav ul li a{
     text-decoration: none;
     padding: 15px;
-    border: 1px solid hotpink;
+    border: 1px solid rgb(202, 89, 108);
     color:black;
 }
 header nav ul{

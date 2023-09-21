@@ -88,7 +88,7 @@ export default function Main(){
                 <p>Buscar Portifolio</p>
                 <input className='barrapesquisa' type="text" onChange={mudaTexto} />
                 <div>
-                    <p className='texto_digitado'>pesquisa: {texto}</p>
+                    <p className='texto_digitado'>Pesquisa: {texto}</p>
                 </div>
             </div>
             <main className="content-main">

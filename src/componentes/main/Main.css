@@ -18,7 +18,7 @@
     font-size: 1.4rem;
 }
 .barrapesquisa:focus-visible{
-    outline: 1px solid rgba(28, 28, 191, 0.57);
+    outline: 1px solid rgb(202, 89, 108);
 }
 .pesquisa{
     padding: 50px;
