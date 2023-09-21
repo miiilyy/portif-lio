@@ -14,7 +14,7 @@
     height: 30px;
     border: 1px solid #bebebe;
     width: 200px;
-    border-radius: 5px;
+    border-radius: 5px; 
     font-size: 1.4rem;
 }
 .barrapesquisa:focus-visible{
