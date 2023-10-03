@@ -14,9 +14,9 @@ export default function Main(){
     const portifolio:portifolioType[] = [
         {
             id:1,
-            titulo:"Academia",
+            titulo:"Libra",
             sinopse:"Meu meio de lazer, onde me sinto bem",
-            imagem:"/portifolio_academia.png"
+            imagem:"/libra_intermediario.png"
         },
         {
             id:2,
@@ -26,15 +26,15 @@ export default function Main(){
         },
         {
             id:3,
-            titulo:"O novo conto da Rapunzel",
+            titulo:"Robotia",
             sinopse:"Escrevi um conto da Rapunzel com um novo conceito.",
-            imagem:"/portifolio_conto.png"
+            imagem:"/robotia_curso.png"
         },
         {
             id:4,
-            titulo:"Conta",
+            titulo:"Geogebra Topicos Fundamentais",
             sinopse:"O rascunho de uma Conta.",
-            imagem:"/portifolio_gmail.png"
+            imagem:"/Geogebra_cursos.png"
         },
         {
             id:5,
@@ -44,21 +44,21 @@ export default function Main(){
         },
         {
             id:6,
-            titulo:"Realismo",
+            titulo:"Comunicação",
             sinopse:"Trabalho de português sobre realismo.",
-            imagem:"/portifolio_Realismo.png"
+            imagem:"/portifolio_comunicação.png"
         },
         {
             id:7,
-            titulo:"Loja De Roupa",
+            titulo:"Français",
             sinopse:"Criamos a interface de uma conta na loja.",
-            imagem:"/portifolio_loja.png"
+            imagem:"/Portifolio_Français.png"
         },
         {
             id:8,
-            titulo:"Reciclagem",
+            titulo:"Lingua e Cultura",
             sinopse:"Página inicial do aplicativo de reciclagem.",
-            imagem:"/portifolio_reciclagem.png"
+            imagem:"/idioma_cursos.png"
         },
         {
             id:9,
