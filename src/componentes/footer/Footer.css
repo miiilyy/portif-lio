@@ -1,7 +1,6 @@
 footer{
     background-color: hotpink;
     padding: 50px;
-    margin-top: 50px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -36,3 +35,4 @@ a{
     width: 35px;
     height: 35px;
 }
+
