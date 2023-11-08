@@ -1,5 +1,4 @@
-import './contato.css'
-import '../header/Header'
+import './Contato.css'
 import React, { useState } from 'react'
 function contato(){
         const [nome, setNome] = useState("")  
